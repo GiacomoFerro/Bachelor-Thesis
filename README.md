@@ -1,4 +1,4 @@
-# Degree_Thesis
+# Degree-Thesis
 
 My degree thesis in bioinformatics
 

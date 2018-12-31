@@ -1,10 +1,10 @@
-# Degree-Thesis   ![img_ref]
+# Degree-Thesis   
+
+![img_ref]
 
 My degree thesis in bioinformatics
 
 Read the final_report (Degree_Thesis/final_report.pdf).
-
-
 
 
 
